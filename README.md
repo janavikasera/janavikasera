@@ -16,7 +16,7 @@ During my journey so far, I have delved into various domains, including computer
 
 - **Programming:** Python, Java, C, SML, SQL, R, MATLAB, JMP, STATA
 - **Databases and Visualization Tools:** MySQL, Tableau, Power BI
-- **Deep Learning Pachages:** Tensorflow, PyTorch, Hugging Face, open_cv 
+- **Deep Learning Packages:** Tensorflow, PyTorch, Hugging Face, open_cv 
 
 ## 💼 📇 Experiences:
 
@@ -24,6 +24,7 @@ During my journey so far, I have delved into various domains, including computer
 - **Boston University's Bio-Imaging and Informatics Lab:** Research Assitant for Dr.Koo in *prediciting effects of covid on brain regions and activities* 
 - **AI4ALL@BU (Stanford University's Affiliate):** Undergraduate Research Assistant in *Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing* (Publication: https://arxiv.org/abs/2306.17848)
 - **Kaggle's Feedback Prize ELL Challenge (2022):** Bronze Medal Winner
+- **NeuralIPS's Neural MMO Competition (2022):** Ranked top 10% across over 300 teams
 - **Stanford University Open Data Hackathon (2021):** Winner of Data Modeling Competition 
 
 ## 📱 ☎  📫 Reach Me! 
