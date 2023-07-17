@@ -21,10 +21,10 @@ During my journey so far, I have delved into various domains, including computer
 ## 💼 📇 Experiences:
 
 - **Boston University's Department of Mathematics and Statistics:** Research Assitant for Professor Mark Kon's and Professor Julio Castrillion's project on *developing tools for feature optimization for sparse data*
-- **Boston University's Bio-Imaging and Informatics Lab:** Research Assitant for Dr.Koo in *prediciting effects of covid on brain regions and activities* 
+- **Boston University's Bio-Imaging and Informatics Lab:** Research Assitant for Dr.Koo in *predicting effects of covid on brain regions and activities* 
 - **AI4ALL@BU (Stanford University's Affiliate):** Undergraduate Research Assistant in *Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing* (Publication: https://arxiv.org/abs/2306.17848)
 - **Kaggle's Feedback Prize ELL Challenge (2022):** Bronze Medal Winner
-- **NeuralIPS's Neural MMO Competition (2022):** Ranked top 10% across over 300 teams
+- **NeuralIPS's Neural MMO Competition (2022):** Ranked top 10% across 300 teams
 - **Stanford University Open Data Hackathon (2021):** Winner of Data Modeling Competition 
 
 ## 📱 ☎  📫 Reach Me! 
